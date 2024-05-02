@@ -75,7 +75,7 @@ If you find this work useful, please include the following citation:
 
 ## License Notice
 
-The **content of this repository** is licensed under the tbd.
+The **content of this repository** is licensed under the BSD-3-Clause license.
 
 ## Acknowledgement
 This work was partially supported by the Federal Ministry of the Environment, 
